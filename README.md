@@ -5,9 +5,9 @@
 
 - 👨‍💻 Know more about me at [https://karthyv.netlify.app](https://karthyv.netlify.app/)
 
-- 💬 Ask me about **React, Redux, Node, Mongodb**
+- 💬 Ask me about **React, Redux, Node, Mongodb, Nextjs, Nestjs, MySQL**
 
-- 📫 How to reach me **kdon979@gmail.com**
+- 📫 How to reach me **karthyv08@gmail.com**
 
 - ⚡ Fun fact **Fun facts are not always fun**
 
